@@ -11,7 +11,7 @@ sns.set_style("white")
 %matplotlib inline
 
 # 2. Load the Dataset
-midwest = pd.read_csv("midwest_filter.csv")
+midwest = pd.read_csv("https://github.com/rayray012793/my-first-binder/blob/main/scatterplot2.csv")
 
 # 3. Create Color Palette for the 6 States
 states_list = np.unique(midwest['state'])
