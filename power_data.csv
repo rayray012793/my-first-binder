@@ -1,0 +1,6 @@
+PID,county,state,area,poptotal,popdensity,renewables,fossil_fuel,nuclear,hydro,other,perc_renew,perc_fossil,perc_nuclear,perc_hydro,perc_other,industrial_usage,residential_usage,commercial_usage,grid_efficiency,reliability_index,poverty_impact,perc_outages,perc_low_income_subsidy,avg_bill_adult,perc_elderly_fixed_load,inmetro,category,dot_size
+101,ADAMS,IL,0.052,66090,1270.96,5200,55000,4500,800,590,7.86,83.22,6.81,1.21,0.89,43298,75.1,19.6,4.35,63628,96.2,13.1,18.0,11.0,12.4,0,Coal_Heavy,250.94
+102,ALEXANDER,IL,0.014,10626,759.0,3500,6000,500,400,226,32.9,56.4,4.7,3.7,2.1,6724,59.7,11.2,2.87,10529,99.0,32.2,45.8,27.3,25.2,0,Solar_Mixed,185.78
+103,BOND,IL,0.022,14991,681.41,1200,12000,1000,500,291,8.0,80.0,6.6,3.3,1.9,9669,69.3,17.0,4.48,14235,94.9,12.0,14.0,10.8,12.6,0,Coal_Heavy,175.90
+104,BOONE,IL,0.017,30806,1812.11,15000,12000,3000,500,306,48.7,38.9,9.7,1.6,1.0,19272,75.4,17.2,4.19,30337,98.4,7.2,11.1,5.5,6.2,1,Wind_Farm,319.82
+105,BROWN,IL,0.018,5836,324.22,400,5000,200,150,86,6.8,85.6,3.4,2.5,1.4,3979,68.8,14.4,3.36,4815,82.5,13.5,13.0,11.1,19.2,0,Coal_Heavy,130.44
